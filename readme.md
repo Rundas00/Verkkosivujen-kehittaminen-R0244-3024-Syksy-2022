@@ -1,10 +1,1 @@
-Linkki WS12-verkkosivuun: https://rundas00.github.io/verkkosivutR2044/WS3/
-Linkki WS12-verkkosivuun: https://rundas00.github.io/verkkosivutR2044/WS4/
-Linkki WS12-verkkosivuun: https://rundas00.github.io/verkkosivutR2044/WS5/
-Linkki WS12-verkkosivuun: https://rundas00.github.io/verkkosivutR2044/WS6/
-Linkki WS12-verkkosivuun: https://rundas00.github.io/verkkosivutR2044/WS7/
-Linkki WS12-verkkosivuun: https://rundas00.github.io/verkkosivutR2044/WS8/
-Linkki WS12-verkkosivuun: https://rundas00.github.io/verkkosivutR2044/WS9/
-Linkki WS12-verkkosivuun: https://rundas00.github.io/verkkosivutR2044/WS10/
-Linkki WS12-verkkosivuun: https://rundas00.github.io/verkkosivutR2044/WS11/
 Linkki WS12-verkkosivuun: https://rundas00.github.io/verkkosivutR2044/WS12/
