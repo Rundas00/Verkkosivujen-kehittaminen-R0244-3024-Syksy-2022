@@ -1,0 +1,19 @@
+ul{
+	list-style:none;
+}
+li{
+	font-size: 30px;
+	padding: 50px;
+display:inline; 
+}
+
+.circular_image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.nav{
+	background-color:black;
+	color:white;
+}

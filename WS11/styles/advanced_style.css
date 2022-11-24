@@ -1,0 +1,47 @@
+#box1{
+	border: 1px solid;
+	padding: 10px;
+	box-shadow: 5px 10px;
+	color:gray;
+	width: 50%;
+}
+
+#box2{
+	text-shadow: 2px 2px gray;
+	color:red;
+}
+
+body{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image: url("serene_background.gif");
+	padding:100px;
+}
+
+nav{
+	background-color:white;
+	text-align:center;
+	padding:15px;
+}
+
+a:hover {
+  color: red;
+} 
+
+a{
+	width:20px;
+	height:20px;
+	background:white;
+	transition: width 2s, height 4s;
+	padding:15px;
+}
+
+a:hover{
+	width:30px;
+	height:30px;
+}
+@media only screen and (max-width: 799px) {
+	body{
+		background-color:lightgreen;
+	}
+}

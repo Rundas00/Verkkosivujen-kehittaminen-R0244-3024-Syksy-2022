@@ -1,0 +1,18 @@
+header{
+	background-color:yellow;
+	padding: 25px;
+	color: black;
+	clear: left;
+	text-align:center;
+}
+nav{
+	background-color:red;
+	text-align:center;
+}
+section{
+	float: center;
+	padding: 10px;
+	color:green;
+	background-color:black;
+	text-align:center;
+}
